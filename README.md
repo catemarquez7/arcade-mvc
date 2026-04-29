@@ -44,7 +44,7 @@ Proyecto desarrollado y ejecutado en **entorno local**, como aplicación académ
 
 ### 📌 Estado del proyecto
 
-✅ Proyecto académico finalizado.
+Finalizado.
 
 ---
 
