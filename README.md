@@ -1,16 +1,17 @@
-## 🕹️ Arcade – Aplicación en Python
+### 🕹️ Arcade – Aplicación en Python
 
+-
 Este proyecto fue desarrollado como parte de la carrera **Analista en Sistemas** en la **Escuela DaVinci**, dentro de la materia **Análisis y metodología de sistemas**, con el objetivo de analizar y desarrollar un sistema de utilizando Python y tkinter, la librería para aplicaciones de escritorio.
-l
+
 ---
 
-## 🎯 Objetivo del proyecto
+### 🎯 Objetivo del proyecto
 
 Diseñar y desarrollar un **sistema de gestión simple** que simule el funcionamiento básico (CRUD) de un arcade. Comprender el funcionamiento y uso de Python como lenguaje.
 
 ---
 
-## ✨ Características
+### ✨ Características
 
 - Gestión de jugadores y juegos
 - CRUD de estas entidades principales
@@ -20,7 +21,7 @@ Diseñar y desarrollar un **sistema de gestión simple** que simule el funcionam
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+### 🛠️ Tecnologías utilizadas
 
 - **Python**
 - **Interfaz con tkinter**
@@ -28,37 +29,37 @@ Diseñar y desarrollar un **sistema de gestión simple** que simule el funcionam
 
 ---
 
-## 📁 Contenido del repositorio
+### 📁 Contenido del repositorio
 
 - Estructura organizada en Modelo-Vista-Controlador
 - Documentación (diagramas)
 
 ---
 
-## 🧪 Entorno de ejecución
+### 🧪 Entorno de ejecución
 
 Proyecto desarrollado y ejecutado en **entorno local**, como aplicación académica, sin fines productivos.
 
 ---
 
-## 📌 Estado del proyecto
+### 📌 Estado del proyecto
 
 ✅ Proyecto académico finalizado.
 
 ---
 
-## Diagrama de contexto
+### Diagrama de contexto
 
 <img src="diagramaContexto.png" alt="diagrama de contexto" >
 
-## Diagrama DFD nivel 1
+### Diagrama DFD nivel 1
 
 <img src="diagramaDFD1.png" alt="diagrama dfd nivel 1" >
 
-## Diccionario de datos
+### Diccionario de datos
 
 <img src="diccionarioDatos.png" alt="diccionario de datos" >
 
-## Diagrama DER
+### Diagrama DER
 
 <img src="diagramaDER.png" alt="diagrama DER" >
