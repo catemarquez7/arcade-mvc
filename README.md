@@ -1,7 +1,8 @@
 ## 🕹️ Arcade – Aplicación en Python
 
 
-Este proyecto fue desarrollado como parte de la carrera **Analista en Sistemas** en la **Escuela DaVinci**, dentro de la materia **Análisis y metodología de sistemas**, con el objetivo de analizar y desarrollar un sistema de utilizando Python y tkinter, la librería para aplicaciones de escritorio.
+Este proyecto fue desarrollado como parte de la carrera **Analista en Sistemas** en la **Escuela DaVinci**, dentro de la materia **Análisis y metodología de sistemas**.
+Su objetivo fue analizar y desarrollar un sistema de utilizando *Python y tkinter*, la librería para aplicaciones de escritorio.
 
 ---
 
